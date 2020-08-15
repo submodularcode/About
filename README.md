@@ -3,7 +3,7 @@
 *submodular* is a python library of **high-performance MPI-parallelized implementations of state-of-the-art algorithms for submodular maximization** written by **Adam Breuer**. It also includes an **experimental comparison framework** to compare algorithms, as well as **additional simple-to-run serial (non-parallel) implementations**. The submodular library can easily scale up to leverage thousands of processors on Amazon’s AWS. It also includes examples that show how to find influential people in large social networks with e.g. millions of users, as well as other classic objectives.
 
 
-![Map of FAST country usage](https://images.squarespace-cdn.com/content/v1/5ca4254a8ab6dd000136f216/1591498255086-5V12C5SW2YPT5PUMPGA7/ke17ZwdGBToddI8pDm48kL1pTN9lINIBvBTJtDo0hOxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxBNMYAfPHpb0MbpADVzMmqtLmbFyxlbZXYqOhN4i99ptjmY55CGMPQWiUjSOqbHYs/FAST+1+processor+runtime.png?format=125w)
+![Map of FAST country usage](https://images.squarespace-cdn.com/content/v1/5ca4254a8ab6dd000136f216/1591498255086-5V12C5SW2YPT5PUMPGA7/ke17ZwdGBToddI8pDm48kL1pTN9lINIBvBTJtDo0hOxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxBNMYAfPHpb0MbpADVzMmqtLmbFyxlbZXYqOhN4i99ptjmY55CGMPQWiUjSOqbHYs/FAST+1+processor+runtime.png?format=110w)
 
 The *submodular* repo also has GitHub Actions and Teams enabled to make it easy to integrate *submodular* into your workflow.
 
