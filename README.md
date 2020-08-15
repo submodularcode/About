@@ -4,7 +4,7 @@
 
 The *submodular* repo also has GitHub Actions and Teams enabled to make it easy to integrate *submodular* into your workflow.
 
-For details and source, please see instructions at www.adambreuer.com/code. I'm happy to provide a quick **tutorial and examples for running *submodular* on AWS in parallel** or to discuss how to **use *submodular* for your research**. Email me at **breuer `at' harvard.edu**
+For details and source, please see instructions at www.adambreuer.com/code. I'm also happy to provide a quick tutorial and examples for running *submodular* on AWS in parallel or to discuss how to **use *submodular* for your research** -- you can email me at **breuer `at' harvard.edu**
 
 
 When citing this libary, please cite our paper:
